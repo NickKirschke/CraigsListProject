@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:entries="@array/WEBSITES_NAMES"
+        android:entryValues="@array/WEBSITES"
+        android:key="listPref"
+        android:summary="Select which sites to get JSON data from"
+        android:title="Info" />
+</PreferenceScreen>

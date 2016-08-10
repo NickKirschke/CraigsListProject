@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">P5_Bikes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="tetonURL">http://www.tetonsoftware.com/bikes/</string>
+    <string name="tetonNAME">Pair - Teton Software</string>
+
+    <string-array name="WEBSITES">
+        <item>www.pcs.cnu.edu/~kperkins/bikes/</item>
+        <item>http://www.tetonsoftware.com/bikes/</item>
+    </string-array>
+    <string-array name="spinnerInfo">
+        <item>Company</item>
+        <item>Price</item>
+        <item>Location</item>
+    </string-array>
+    <string-array name="WEBSITES_NAMES">
+        <item>CNU-Defender</item>
+        <item>Pair-Teton Software</item>
+    </string-array>
+
+</resources>
